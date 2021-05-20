@@ -1,7 +1,12 @@
 # Predicting House Prices: A Linear Regression Model
-A basic linear regression model which can predict the house prices of a particular area w.r.t. the given dataset, using SFRAMES in Turicreate.
+This repository contains a linear regression model with step-by-step explanation, implementation and prediction of house prices. There are a no. of files in this repository. Here is a guide of how to read them:
+1. <b>home_data.sframe</b> - Dataset used.
+2. <b>Analysis.ipnyb</b> - This file contains the initial analysis of the given dataset before model implementation.
+3. <b>Single_feature_LRModel.ipynb<b/> - Linear regression model w.r.t. a single feature.
+4. <b> Multi-feature LR Model.ipnyb</b> - LInear regression model w.r.t. a no. of features.
+5. <b> House price prediction.ipnyb</b> - Comparison and prediction of house prices for both models implemented earliear.
  
-# What is Turicreate?
+# What is Turicreate and SFrames?
 Turicreate is a python library used to deal with big data. It is easy to use and can easily handle and manipulate data as compared to other python libraries. It is easy to use and you don't have to be an expert in Machine Learning to use this library. SFrames are used in turicreate to scale all the data used for model building. Turicreate is very much capable to build custom machine learning models in an easy go. 
 # Installing Turicreate
 It would be better if you create a virtual environment to run turicreate in jupyter notebook. Let's learn how to create virtual environment first.
