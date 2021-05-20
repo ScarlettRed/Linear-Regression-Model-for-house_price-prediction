@@ -2,7 +2,7 @@
 This repository contains a linear regression model with step-by-step explanation, implementation and prediction of house prices. There are a no. of files in this repository. Here is a guide of how to read them:
 1. <b>home_data.sframe</b> - Dataset used.
 2. <b>Analysis.ipnyb</b> - This file contains the initial analysis of the given dataset before model implementation.
-3. <b>Single_feature_LRModel.ipynb<b/> - Linear regression model w.r.t. a single feature.
+3. <b>Single_feature_LRModel.ipynb</b> - Linear regression model w.r.t. a single feature.
 4. <b> Multi-feature LR Model.ipnyb</b> - LInear regression model w.r.t. a no. of features.
 5. <b> House price prediction.ipnyb</b> - Comparison and prediction of house prices for both models implemented earliear.
  
